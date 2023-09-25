@@ -9,7 +9,7 @@
 
 Ejemplo Array
 
-```
+```java
 import java.util.Arrays;
 
 public class EjercicioArray {
@@ -46,7 +46,7 @@ public class EjercicioArray {
 
 Ejemplo Array list
 
-```
+```java
 import java.util.ArrayList; 
 import java.util.Scanner;
 
