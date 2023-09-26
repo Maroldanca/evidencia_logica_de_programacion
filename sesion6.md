@@ -105,7 +105,81 @@ public class AppNotas {
 
 ### Solucion
 
-1. 
+**Arrays**
+```java
+public static void main(String[] args) {
+        
+        int[] numerosPares = {2,4,6,8,10,12,14};
+        
+        System.out.println("El array original es: " + Arrays.toString(numerosPares));
+        
+         int suma = 0;
+        for (int i = 0; i < numerosPares.length; i++) {
+            suma += numerosPares[i];
+        }
+        System.out.println("La suma de los elementos es: " + suma);
+        
+        int maximo = numerosPares[0];
+        for (int i = 1; i < numerosPares.length; i++) {
+            if (numerosPares[i] > maximo) {
+                maximo = numerosPares[i];
+            }
+        }
+        System.out.println("El número más grande es: " + maximo);
+```
 
+**ArrayList**
 
+```java
+import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.Scanner;
 
+/**
+ *
+ * @author Miguel Angel
+ */
+public class Pruebas {
+
+    public static void main(String[] args) {
+
+        ArrayList<String> vehiculos = new ArrayList<>();
+        Scanner sc = new Scanner(System.in);
+
+       while(true){
+
+            System.out.println("1. Agregar carro");
+            System.out.println("2. Mostrar carros");
+            System.out.println("3. Salir");
+
+            int opcion = sc.nextInt();
+
+            if (opcion == 1) {
+                añadirCarro(vehiculos, sc);
+            } else if (opcion == 2) {
+                listaCarros(vehiculos);
+            } else {
+                break;
+                
+            }
+       }
+        
+    }
+
+    public static void añadirCarro(ArrayList<String> vehiculos, Scanner sc) {
+        System.out.println("Ingresa tu nuevo carro");
+
+        String nuevoCarro = sc.nextLine();
+
+        vehiculos.add(nuevoCarro);
+
+    }
+
+    public static void listaCarros(ArrayList<String> vehiculos) {
+
+        for (String carros : vehiculos) {
+            System.out.println(carros);
+        }
+    }
+}
+```
