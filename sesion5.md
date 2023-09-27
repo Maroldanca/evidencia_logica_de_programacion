@@ -25,20 +25,20 @@ Aqui estan  los algoritmos para hacer los ejercicios:
 
 ## While
 
-1. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/Ejercicio%201.PNG?alt=media&token=e2432919-2f38-483a-811d-10e111711f29)
+1. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/Sesion%205%2FEjercicio%201%20(1).PNG?alt=media&token=a7d1c01b-c9e4-4c88-9266-74fe47af41e9&_gl=1*karf32*_ga*MTExMzMzNDcwMS4xNjk0NTY3MDU2*_ga_CW55HF8NVT*MTY5NTg1MzI0MC42LjEuMTY5NTg1NDM0OS41NC4wLjA.)
 
-2. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/Ejercicio%202.PNG?alt=media&token=4c589005-606d-4750-a71a-25319a3c37b8)
+2. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/Sesion%205%2FEjercicio%202.PNG?alt=media&token=e4903cc3-7acb-4338-84da-bf4daca17ba7&_gl=1*1j4acla*_ga*MTExMzMzNDcwMS4xNjk0NTY3MDU2*_ga_CW55HF8NVT*MTY5NTg1MzI0MC42LjEuMTY5NTg1NDM3NS4yOC4wLjA.)
 
 ## Do-while
 
-1. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/ejercicio%201.PNG?alt=media&token=77bc9a41-b683-4af0-9503-4e3e203bfcbd)
+1. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/Sesion%205%2Fejercicio%201%20(1).PNG?alt=media&token=e49980f7-9a14-4a93-8c29-33ff4f9b00a7&_gl=1*1pnz6zv*_ga*MTExMzMzNDcwMS4xNjk0NTY3MDU2*_ga_CW55HF8NVT*MTY5NTg1MzI0MC42LjEuMTY5NTg1NDQ3OC42MC4wLjA.)
 
-2. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/ejercicio%202.PNG?alt=media&token=529a3e76-ec0b-46c2-a8a1-f5b6759ae57b)
+2. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/Sesion%205%2Fejercicio%202.PNG?alt=media&token=a3b95aa9-fa60-4260-983f-14ed3f849762&_gl=1*o7azvy*_ga*MTExMzMzNDcwMS4xNjk0NTY3MDU2*_ga_CW55HF8NVT*MTY5NTg1MzI0MC42LjEuMTY5NTg1NDQ1OS4xMy4wLjA.)
 
 ## For
 
 1. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/ejercicio%201.PNG?alt=media&token=38a4f1d6-8e91-4216-874f-f0156f291cc1)
 
-2. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/Ejercicio%202%20(1).PNG?alt=media&token=2a57514b-5d82-4728-bf6a-c68948096288)
+2. ![](https://firebasestorage.googleapis.com/v0/b/proyectos-mr.appspot.com/o/Sesion%205%2FEjercicio%202%20(1).PNG?alt=media&token=ac22bb5f-2510-4b3a-8cc7-4db46df079ee&_gl=1*6q5ni*_ga*MTExMzMzNDcwMS4xNjk0NTY3MDU2*_ga_CW55HF8NVT*MTY5NTg1MzI0MC42LjEuMTY5NTg1NDUzMi42LjAuMA..)
 
 
