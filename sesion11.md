@@ -18,18 +18,16 @@
 public class Pruebas {
 
     public static void main(String[] args) {
-        // Declaramos un conjunto de números enteros
+       
         int[] numeros = {1, 2, 3, 4, 5, 2, 3, 4, 6};
 
-        // Creamos una lista para almacenar los números repetidos
         ArrayList<Integer> numerosRepetidos = new ArrayList<>();
 
-        // Recorremos el conjunto de números
         for (int i = 0; i < numeros.length; i++) {
-            // Comprobamos si el número actual ya ha aparecido
+           
             for (int j = 0; j < i; j++) {
                 if (numeros[i] == numeros[j]) {
-                    // El número actual ya ha aparecido y es repetido
+                   
                     if (!numerosRepetidos.contains(numeros[i])) {
                         numerosRepetidos.add(numeros[i]);
                     }
@@ -38,11 +36,11 @@ public class Pruebas {
             }
         }
 
-        // Si hay números repetidos, los imprimimos
+        
         if (!numerosRepetidos.isEmpty()) {
             System.out.println("Los números repetidos son: " + numerosRepetidos);
         } else {
-            // No hay ningún número repetido
+            
             System.out.println("No hay ningún número repetido");
         }
     }
@@ -61,13 +59,13 @@ public class Pruebas {
         int decimal = 0;
 
         for (int i = 0; i < longitud; i++) {
-            // Obtén el dígito binario desde la derecha
+            
             char digito = binario.charAt(longitud - 1 - i);
 
-            // Convierte el carácter a un valor entero (0 o 1)
+            
             int valor = Character.getNumericValue(digito);
 
-            // Agrega el valor al número decimal después de aplicar la potencia de 2
+            
             decimal += valor * Math.pow(2, i);
         }
 
